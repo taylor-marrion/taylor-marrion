@@ -82,9 +82,9 @@ I bring a unique mix of:
 ## 🎓 Education
 
 **M.S. Computer Science – Dakota State University** *(Aug 2025)*  
-> Specialization: Cyber Operations  
-> Coursework: Software Exploitation, Machine Learning, Cryptography
-> Special projects: FSM-Based static analyzer, LLM-Based vulnerability detection
+> Specialization: Cyber Operations <br>
+> Coursework: Software Exploitation, Machine Learning, Cryptography <br>
+> Special projects: FSM-Based static analyzer, LLM-Based vulnerability detection <br>
 
 **B.S. Cyber Operations – Dakota State University** *(May 2023)*  
 > Focus: Reverse Engineering, C Programming, Assembly Language, Network Security, Threat Hunting
