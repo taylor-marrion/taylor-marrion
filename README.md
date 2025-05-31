@@ -61,7 +61,7 @@ I bring a unique mix of:
 
   ## 👨‍💻 Projects
 
-- 🧱 **Generic Server-Client Architecture & Data Structure Libraries**
+- 🧱 **[Generic Server-Client Architecture & Data Structure Libraries](https://github.com/taylor-marrion/generic-c-server-framework)**
   A modular C-based networking framework with reusable client-server code and custom implementations of data structures (BST, linked hash tables, queues).
   *Purpose:* Demonstrates strong C programming and low-level architectural design. Serves as a foundation for future tooling.
 
