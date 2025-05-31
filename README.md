@@ -61,20 +61,20 @@ I bring a unique mix of:
 
   ## 👨‍💻 Projects
 
-- 🧱 **Generic Server-Client Architecture & Data Structure Libraries**  
-  A modular C-based networking framework with reusable client-server code and custom implementations of data structures (BST, linked hash tables, queues).  
+- 🧱 **Generic Server-Client Architecture & Data Structure Libraries**
+  A modular C-based networking framework with reusable client-server code and custom implementations of data structures (BST, linked hash tables, queues).
   *Purpose:* Demonstrates strong C programming and low-level architectural design. Serves as a foundation for future tooling.
 
-- 🔍 **Machine Learning for Malware Detection**  
-  A supervised classifier trained on Windows PE import features to distinguish malicious from benign executables.  
+- 🔍 **[Machine Learning for Malware Detection](https://github.com/taylor-marrion/ML-Malware-Classification)**
+  A supervised classifier trained on Windows PE import features to distinguish malicious from benign executables.
   *Focus:* Feature engineering, dimensionality reduction, and model comparison (KNN, MLR).
 
-- 🔧 **FSM-Based Vulnerability Detection in Binary Executables**  
-  A finite state machine-based static analyzer written in C for detecting uninitialized memory usage in compiled Juliet Test Suite binaries.  
+- 🔧 **[FSM-Based Vulnerability Detection in Binary Executables](https://github.com/taylor-marrion/FSM_Binary_Analyzer)**
+  A finite state machine-based static analyzer written in C for detecting uninitialized memory usage in compiled Juliet Test Suite binaries.
   *Focus:* Manual static analysis, compiler-aware design, vulnerability pattern matching.
 
-- 🔬 **LLM-Based Vulnerability Detection in Tokenized Assembly**  
-  A transformer-based model trained to detect use of uninitialized variables from disassembled binaries.  
+- 🔬 **[LLM-Based Vulnerability Detection in Tokenized Assembly](https://github.com/taylor-marrion/LLM_VulnHunter)**
+  A transformer-based model trained to detect the use of uninitialized variables from disassembled binaries.
   *Focus:* Integrates NLP-style tokenization, FSM-derived supervision, and disassembly features.
 
 ---
