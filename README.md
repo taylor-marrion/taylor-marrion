@@ -87,7 +87,7 @@ I bring a unique mix of:
 > Special projects: FSM-Based static analyzer, LLM-Based vulnerability detection <br>
 
 **B.S. Cyber Operations – Dakota State University** *(May 2023)*  
-> Focus: Reverse Engineering, C Programming, Assembly Language, Network Security, Threat Hunting
+> Coursework: Reverse Engineering, C Programming, Assembly Language, Network Security, Threat Hunting
 
 ---
 
